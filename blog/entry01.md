@@ -40,7 +40,7 @@ Below is an example of an internal anchor link and its target element:
 <h2 id"#footer">Footer</h2>
 ```
 
-<h4 id="#example1">Correct internal Anchor</h4>
+<h4 id="example1">Correct internal Anchor</h4>
 
 ```html
 <a href="#contacts-header">Contacts</a>
@@ -63,7 +63,7 @@ I belive this quote stuck with me because with only 4 words it represented what 
 The 3rd and final challenge I faced was small with a simple fix. I figured I might as well add this to the end of my first blog. I was working on my computer at home where I use a 65% keyboard. A 65% keyboard means that the keyboard is smaller then a large or normal keyboard. This can be good for smaller hands as it is more compact or also for people who play video games as it is easier to reach keys. This can be a downside for schoolwork though because you are missing some keys. A 65% keyboard looks similar to what is included in the image below.
 ![65%keyboard](https://up.yimg.com/ib/th?id=OIP.19EgJOPksOqRgOMP6mLR1gAAAA&pid=Api&rs=1&c=1&qlt=95&w=399&h=120)
 
-If you take some time to review the keys not located on the keyboard you may notice that the backticks are missing. In Markdown you use backticks to include peices of code in other languages to show examples similar to how I did <a href="example1">Here</a>
+If you take some time to review the keys not located on the keyboard you may notice that the backticks are missing. In Markdown you use backticks to include peices of code in other languages to show examples similar to how I did <a href="#example1">Here</a>
 
 ### Takeaways
 * A major takeaway I have learned is that small things like the location of a hashtag or a 
