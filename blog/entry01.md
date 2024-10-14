@@ -33,12 +33,15 @@ HTML and Markdown Basics
 
 The first challenge I stumbled across was in the website we use for learning html called freecodecamp.com. There was a section called "Link to Internal Sections of a Page with Anchor Elements" In this section you had to create an internal link in a webpage that could lead you down to a different spot. This acted similar to a table of contents in a book. I was following the instructions clearly but I still could not figure out what the issue was. Here is my initial code:
 Below is an example of an internal anchor link and its target element:
+
 ```html
 <a href="footer">Footer</a>
 ...
 <h2 id"#footer">Footer</h2>
-,,,
-Below is an example of an correct internal anchor link and its target element:
+```
+
+<h4 id="#example1">Correct internal Anchor</h4>
+
 ```html
 <a href="#contacts-header">Contacts</a>
 ...
@@ -49,7 +52,21 @@ The mistake I made was where I placed the hashtag. The location of the hashtag i
 ### Challenge 2
 The second challenge I faced was while writing this blog entry. This blog entry is my first real experience using github as unit one also introduced websites I will be using through highschool. I learned many things about adding code pages, text pages, files, folders and more. I also learned how people can make templates I can used. What I did not learn was the point of the commit changes button in the top right of my code.
 ![commitchangesimage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/commit-changes-github.png)
+
 After tragically closing my laptop assuming github has autosave features I come back to github saturday night prepared to finish my first blog to realize none of my work has saved. Because of this I did reserch to find a solution and found a quote that stuck with me while writing the current blog.
+
+`<h2>save early, save often</h2>`
+
+I belive this quote stuck with me because with only 4 words it represented what I had lost and the time I had wasted but also the simple solution. When ever you think about your work and progress, commit changes.
+
+### Challenge 3
+The 3rd and final challenge I faced was small with a simple fix. I figured I might as well add this to the end of my first blog. I was working on my computer at home where I use a 65% keyboard. A 65% keyboard means that the keyboard is smaller then a large or normal keyboard. This can be good for smaller hands as it is more compact or also for people who play video games as it is easier to reach keys. This can be a downside for schoolwork though because you are missing some keys. A 65% keyboard looks similar to what is included in the image below.
+![65%keyboard](https://up.yimg.com/ib/th?id=OIP.19EgJOPksOqRgOMP6mLR1gAAAA&pid=Api&rs=1&c=1&qlt=95&w=399&h=120)
+
+If you take some time to review the keys not located on the keyboard you may notice that the backticks are missing. In Markdown you use backticks to include peices of code in other languages to show examples similar to how I did <a href="example1">Here</a>
+
+### Takeaways
+* A major takeaway I have learned is that small things like the location of a hashtag or a 
 
 [Next](entry02.md)
 
