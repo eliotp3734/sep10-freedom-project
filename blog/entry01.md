@@ -29,6 +29,15 @@ HTML and Markdown Basics
   * To change the text to italics or bold in HTML you have to change the style.css file
   * To change the text to italics or bold Markdown you simply put astriscks before an after words (1 astrick for italic, 2 for bold, and 3 for both)
 
+ ### Challenge 1
+
+The first challenge I stumbled across was in the website we use for learning html called freecodecamp.com. There was a section called "Link to Internal Sections of a Page with Anchor Elements" In this section you had to create an internal link in a webpage that could lead you down to a different spot. This acted similar to a table of contents in a book. I was following the instructions clearly but I still could not figure out what the issue was. Here is my initial code:
+Below is an example of an internal anchor link and its target element:
+html
+<a href="#contacts-header">Contacts</a>
+...
+<h2 id="contacts-header">Contacts</h2>
+
 
 [Next](entry02.md)
 
