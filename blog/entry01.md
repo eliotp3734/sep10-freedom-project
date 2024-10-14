@@ -48,7 +48,9 @@ The mistake I made was where I placed the hashtag. The location of the hashtag i
 
 ### Challenge 2
 The second challenge I faced was while writing this blog entry. This blog entry is my first real experience using github as unit one also introduced websites I will be using through highschool. I learned many things about adding code pages, text pages, files, folders and more. I also learned how people can make templates I can used. What I did not learn was the point of the commit changes button in the top right of my code.
-![commitchangesimage](commitchanges.png)
+![commitchangesimage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/commit-changes-github.png)
+After tragically closing my laptop assuming github has autosave features I come back to github saturday night prepared to finish my first blog to realize none of my work has saved. Because of this I did reserch to find a solution and found a quote that stuck with me while writing the current blog.
+
 [Next](entry02.md)
 
 [Home](../README.md)
