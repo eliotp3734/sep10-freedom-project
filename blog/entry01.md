@@ -33,12 +33,21 @@ HTML and Markdown Basics
 
 The first challenge I stumbled across was in the website we use for learning html called freecodecamp.com. There was a section called "Link to Internal Sections of a Page with Anchor Elements" In this section you had to create an internal link in a webpage that could lead you down to a different spot. This acted similar to a table of contents in a book. I was following the instructions clearly but I still could not figure out what the issue was. Here is my initial code:
 Below is an example of an internal anchor link and its target element:
-html
+```html
+<a href="footer">Footer</a>
+...
+<h2 id"#footer">Footer</h2>
+,,,
+Below is an example of an correct internal anchor link and its target element:
+```html
 <a href="#contacts-header">Contacts</a>
 ...
 <h2 id="contacts-header">Contacts</h2>
+```
+The mistake I made was where I placed the hashtag. The location of the hashtag is very important because where it is placed determines if I am naming a place that does not exist #footer or if I am creating a real place in the code #footer.
 
-
+### Challenge 2
+The second challenge I faced was while writing this blog entry. This blog entry is my first real experience using github as unit one also introduced websites I will be using through highschool. I learned many things about adding code pages, text pages, files, folders and more. I also learned how people can make templates I can used. What I did not learn was the point of the commit changes button in the top right of my code.
 [Next](entry02.md)
 
 [Home](../README.md)
