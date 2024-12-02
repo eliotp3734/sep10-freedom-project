@@ -27,6 +27,11 @@ My first search was very general. I looked up **"What sorts of hareware are used
 ### EDP
 I am currently on the second step of the Engineering design process where I do background research. All of the research I did today without even knowing it was helping contribute to my website and issue at hand because I am finding how other people use the technology and I am finding a way to make it better. The next step for me is to Specify the requirements which means to find what is important that can be improved upon.
 
+### Skills
+
+#### Googling
+One important skill I have improved upon is googling because by doing reasearch I was able to find information to improve my knowlage of my topic. With millions of results popping up when I search the skill of googling helps out because I am able to skim through and find information good for me. When I was reaseaching I had a result that was not exactly what I needed but I was able to refrase what I said and I found much better answers.
+
 
 
 
