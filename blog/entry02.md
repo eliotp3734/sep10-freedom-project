@@ -32,7 +32,8 @@ I am currently on the second step of the Engineering design process where I do b
 #### Googling
 One important skill I have improved upon is googling because by doing reasearch I was able to find information to improve my knowlage of my topic. With millions of results popping up when I search the skill of googling helps out because I am able to skim through and find information good for me. When I was reaseaching I had a result that was not exactly what I needed but I was able to refrase what I said and I found much better answers.
 
-
+### Next steps
+My next step is for me to find a question to solve that is more specfic then the problem I found. There is not 1 big answer so I have to decide which route to create my website on.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
