@@ -14,10 +14,6 @@ The skills I learned when researching for my ideas include:
 * Finding what the world needs - doing research to see what could make a different in the world
 * Documenting my research/journaling - by jotting down my process here I improve upon righting and summarizing 
 
-* 
-
-
-
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
